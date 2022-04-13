@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "channel-relay-control-3a865",
+  "private_key_id": "ff735c44b80bb57f2df1e545953cb44e5790b7fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDE5ftDfQFU8W2r\n83vJmNjUQwp/VeCSOcRmzhN5rm0glUZDbV9Ph7APO/+hqw+C0UxdzpxxJCLuLb02\n3iwhlZqcVqVY/A+KKqeCmFVrPo2Ik9J2lLTBFjzEhclsfjMELZbw+O/ecWCUaa28\nIh+McprKCEhrJnbYXgO2R/nGfexVlhSNYiZaIV0xb5ekEDERnGCf/mYbqCzBZB4S\n6LLStRtoPcxGSwIextayWtxgMcrEZ6ZB6oYfBg72LhTUMdICUtSULrwZuQZ1duKF\nm5H2bK5g3k8q5p4P73yBGJK/QNfcM3ta2nh0GejcJrWww8gjHfZ0yhAXmrIba98n\nzyR7I/+vAgMBAAECggEAFoBXzhcfi1cJ2wA40cmTYfKFZRbp0pwia0M6q4m48+PL\nQ1Jg9YRCpQMMzCtx2tfTW9cMPsvL6B83A+mw7meb4yjtvXUUy4vjV8PT4y0jXIvU\nHfQRkg1aBXVqluj3KI+TM9enBes8B8np7lmR9Gl2cgcvS3t6UnCwCOlBzKLAWulX\npeqdXAz+B63kfBIEYMBAJXPGMmoFViygHYEgBsKG9FdVhXUI6ZVc8L9ZFYTzD7BO\ndHvmvKcYk8RvnB4yWNzf14Pc1EL6yhxZecwqUcbFpmsm+UlF9MvKZWiVp7gjNcJ3\n3AxqWEFz72pwFK5rXT8cTWVkB+ZY8XUohvsgm2f0gQKBgQD8cKRJZsrGGe0HTVmt\n0NbZzHKnsguNZ8wbZtro+GCc26CIA58HgCq9AgiJBDvctA9X6HBPB2QVjrY20Ajj\nj78rFDLYOV1uWbjaa+mLW1So8RFc5NtwGK9ZOnKXHpjwhJ0o1QRoO4UWhlFdi+vS\nLizT8CPCDcgfH4bOqxHzakhyLwKBgQDHrNLOhTqGUfIF5/ug+0J/IO9O+bZV0c9x\nQsjgzzgmmwdnZ+Sn5aVc1XvYLLz7OAiospNZEQqcsT90lSEAqgLYtTsy80ia0pte\ndEDu7/Zsc8oYjwMWYOEKBr9PGs825wFfrpZ9cO+Zrzi1ijmZB5JQhpvDLziPIM6X\nPeiiCJVqgQKBgQDVqsXzdvTkzmboyljAnUZtXPYi6LmMe7Gv89QQYsLroZ3z4hTF\n9X63MjRlPNcqTKG8B3qf+aKF+KBULquHaVEmtlb+2zcwwvKKtdIcaTZ0NG880FzI\nOayZerYpIPXUhnq7Z+nuC4rvcMsHwfndkcXRsa2if6XGahnhbbyo6mndcwKBgQCr\n9KqKzfNrr3BlI7XwmdFXWA6fDa+30nr6SBBkgjASFxpWNAOXj85L11HTBhwtoMDc\nPwVkA6gG7yH9jVwhjUfsRo7Xvum84ziILEerPZ4TIdheM/Ltt7q1fsAMKMNgvanS\nM7FIEBVXXa3RsVsO7ZVUocfMXIMxx4gCeX8443mBgQKBgQDiLq8inRL/cR8zUfG4\neGhYBRzgERuFjGkJ/fFZS3SFq7QCdBkyZbWwJmjgVBUEh35VA0C/CUIaWXr8uivp\nQVTDnPf3hzI0ujn/DbenfrAvTZLQBIIm4IMPMF4Io4eXCVvxOz+cJNoPIAnpE0GI\nhTYG4UL5HqkZWY8lNj1T9Hk2og==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5o28g@channel-relay-control-3a865.iam.gserviceaccount.com",
+  "client_id": "100348601527099797111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5o28g%40channel-relay-control-3a865.iam.gserviceaccount.com"
+}
